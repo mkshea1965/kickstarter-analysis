@@ -48,7 +48,7 @@ Additionally, the measures of central tendency were calculated so Louise can gai
 
 Table 1 shows that the mean goal of failed campaigns aligns with Louise's intended campaign goal. Additionally, the mean goal is higher than not only the median but also the upper quartile! This indicates a positive skew of the data. However, since the means for both successful and failed goals and pledges are around the upper quartile, the data follows a similar distribution in general (1.5.2 Measures of Spread - Findings). Since the standard deviation is greater than the mean, this indicates a widespread of data points and a right skew, so there may be some higher goals and pledges off-setting the data.
 
-**###Analysis of Musicals in Great Britain**
+### Analysis of Musicals in Great Britain
 For her future campaigns, Louise asked us to analyze the trends of musicals in Great Britain. For this analysis, a box and whisker plot was created for trends of musicals in Great Britain:
 <p align="center"><img width="455" alt="5BoxWhiskerGBMusical" src="https://user-images.githubusercontent.com/88520929/130298245-a9fd7242-9d99-4768-b772-cf47c1bebc15.png"></p>
 <p align="center">Figure 8: Box & Whisker for Goal vs Pledged Amounts in GB for Musical Subcategory.</p>
@@ -59,9 +59,9 @@ As shown in Figure 8, the mean goal amount is $4,000, while the mean pledged amo
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 </p>One conclusion we can make about the Outcomes based on Launch Date Louise is that Louise is more likely to succeed in starting her campaign in May than any other month. Another conclusion we can make about the Outcomes based on Launch Date Louise is that Success is more likely to occur than failure no matter what month the campaign begins, except for December based on success and failure counts. Louise should not start her campaign in December.
-- What can you conclude about the Outcomes based on Goals?
-We can conclude from the insights gained about the Outcomes based on goals is that Louise should not exceed a $30,000 goal if she aims to keep her “greater than $10,000” production closer to the $10,000 amount. However, for plays produced in the United States, the highest rate of success is between $35,000 and $39,999, with the range of $40,000 to $44,999 not far behind. However, the goal should not exceed $45,000 because the success rate plummets above $45,000.
-- What are some limitations of this dataset?
-Some limitations to this data set include the lack of play genre. It would be better if we had a mirror example that was successful or not without having to read the “blurb.”
-- What are some other possible tables and/or graphs that we could create?
+</p>- What can you conclude about the Outcomes based on Goals?
+</p>We can conclude from the insights gained about the Outcomes based on goals is that Louise should not exceed a $30,000 goal if she aims to keep her “greater than $10,000” production closer to the $10,000 amount. However, for plays produced in the United States, the highest rate of success is between $35,000 and $39,999, with the range of $40,000 to $44,999 not far behind. However, the goal should not exceed $45,000 because the success rate plummets above $45,000.
+</p>- What are some limitations of this dataset?
+</p>Some limitations to this data set include the lack of play genre. It would be better if we had a mirror example that was successful or not without having to read the “blurb.”
+</p>- What are some other possible tables and/or graphs that we could create?
 We can create histograms, pie charts and a probability table/matrix. Histograms can be used to visualize the measures of central tendency and spread of the data. Pie Charts can be used for individual category visualization, such as the Parent Category Outcomes (Figure 1) if we wanted to look at the theater category alone. I didn’t find the stacked bar chart as effective when it only represented counts for one category of data; however, I found them more effective at telling a story when there were multiple stacked bar charts to compare. Probability table/matrix with calculated probabilities of success based on various factors such as “Launch,” “goals,” “genre” can show specific probabilities of multi-factor events with ease.
