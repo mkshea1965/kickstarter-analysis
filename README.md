@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 # An Analysis of Kickstarter Campaigns
 Tutorial on performing analyses of Kickstarter data to uncover trends and uploading various types of documentation to github.
 ---
@@ -18,7 +10,7 @@ The scope of this project includes a robust analysis of the variables “launch 
 The purpose of this project is to help budding playwright, Louise, begin a crowdfunding campaign to help fund her play, Fever. Through an analysis of a crowdfunding campaign dataset using Excel, our goal is to find various trends throughout the campaign lifecycles in the provided dataset to help Louise optimize her campaign’s chance of success. 
 ## Analysis and Challenges
 Louise estimates that the budget of her play to be greater than $10,000 and is aiming to launch her campaign in the United States using Kickstarter. Initially, the Kickstarter data for all parent categories in the United States were analyzed to gauge if her Kickstarter campaign has a relatively good chance of success: 
-<img width="241" alt="2ParentCategoryOutcomesUS" src="https://user-images.githubusercontent.com/88520929/130296535-6f61ab4b-ca2a-4d87-8058-982c7a288fc5.png">
+<p align="center"><img width="241" alt="2ParentCategoryOutcomesUS" src="https://user-images.githubusercontent.com/88520929/130296535-6f61ab4b-ca2a-4d87-8058-982c7a288fc5.png"></p>
 ### Analysis of Outcomes Based on Launch Date
 Out of all the parent categories, "theater" is the largest parent category. Additionally, it has the most successful number of campaigns; however, it does not have the highest success-to-failure ratio based on glance alone. 
 Since Louise was specific with which theater category she would begin her campaign, further information can be used to her campaign’s advantage:
@@ -50,7 +42,7 @@ Additionally, the measures of central tendency were calculated so Louise can gai
 <img width="265" alt="7MeasuresofCTGeneral" src="https://user-images.githubusercontent.com/88520929/130298081-09cfca78-5b34-46af-bb22-ab830dabbe67.png">
 Table 1 shows that the mean goal of failed campaigns aligns with Louise's intended campaign goal. Additionally, the mean goal is higher than not only the median but also the upper quartile! This indicates a positive skew of the data. However, since the means for both successful and failed goals and pledges are around the upper quartile, the data follows a similar distribution in general (1.5.2 Measures of Spread - Findings). Since the standard deviation is greater than the mean, this indicates a widespread of data points and a right skew, so there may be some higher goals and pledges off-setting the data.
 
-###Analysis of Musicals in Great Britain
+**###Analysis of Musicals in Great Britain**
 For her future campaigns, Louise asked us to analyze the trends of musicals in Great Britain. For this analysis, a box and whisker plot was created for trends of musicals in Great Britain:
 <img width="455" alt="5BoxWhiskerGBMusical" src="https://user-images.githubusercontent.com/88520929/130298245-a9fd7242-9d99-4768-b772-cf47c1bebc15.png">
 
