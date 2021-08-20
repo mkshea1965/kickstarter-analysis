@@ -12,6 +12,7 @@ The purpose of this project is to help budding playwright, Louise, begin a crowd
 Louise estimates that the budget of her play to be greater than $10,000 and is aiming to launch her campaign in the United States using Kickstarter. Initially, the Kickstarter data for all parent categories in the United States were analyzed to gauge if her Kickstarter campaign has a relatively good chance of success: 
 <p align="center"><img width="241" alt="2ParentCategoryOutcomesUS" src="https://user-images.githubusercontent.com/88520929/130296535-6f61ab4b-ca2a-4d87-8058-982c7a288fc5.png"></p>
 <p align="center">Figure 1: Parent Category Outcomes – US<p/>
+
 ### Analysis of Outcomes Based on Launch Date
 Out of all the parent categories, "theater" is the largest parent category. Additionally, it has the most successful number of campaigns; however, it does not have the highest success-to-failure ratio based on glance alone. 
 Since Louise was specific with which theater category she would begin her campaign, further information can be used to her campaign’s advantage:
@@ -56,7 +57,6 @@ For her future campaigns, Louise asked us to analyze the trends of musicals in G
 ### Challenges and Difficulties Encountered
 As shown in Figure 8, the mean goal amount is $4,000, while the mean pledged amount is around $1,300. The median goal amount is $2,000 while the median pledged amount is around $500. Louise should have her musical produced for no more than $4,000; however, even that goal is aggressive. Realistically, she should have it produced under the median and mean so that it has a high likelihood of getting funded. She should not plan for a big musical production to be crowdfunded in Great Britain. Perhaps a different means of funding would be better if she wants to produce a musical in Great Britain.
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 </p>One conclusion we can make about the Outcomes based on Launch Date Louise is that Louise is more likely to succeed in starting her campaign in May than any other month. Another conclusion we can make about the Outcomes based on Launch Date Louise is that Success is more likely to occur than failure no matter what month the campaign begins, except for December based on success and failure counts. Louise should not start her campaign in December.
 </p>- What can you conclude about the Outcomes based on Goals?
