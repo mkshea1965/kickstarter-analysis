@@ -1,3 +1,4 @@
+<img width="241" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/88520929/130296329-fcae4df9-de98-41bc-b2d8-57bf6953fddc.png">
 # An Analysis of Kickstarter Campaigns
 Tutorial on performing analyses of Kickstarter data to uncover trends and uploading various types of documentation to github.
 ---
