@@ -11,6 +11,7 @@ The purpose of this project is to help budding playwright, Louise, begin a crowd
 ## Analysis and Challenges
 Louise estimates that the budget of her play to be greater than $10,000 and is aiming to launch her campaign in the United States using Kickstarter. Initially, the Kickstarter data for all parent categories in the United States were analyzed to gauge if her Kickstarter campaign has a relatively good chance of success: 
 <p align="center"><img width="241" alt="2ParentCategoryOutcomesUS" src="https://user-images.githubusercontent.com/88520929/130296535-6f61ab4b-ca2a-4d87-8058-982c7a288fc5.png"></p>
+<br/>Figure 1: Parent Category Outcomes – US<br/>
 ### Analysis of Outcomes Based on Launch Date
 Out of all the parent categories, "theater" is the largest parent category. Additionally, it has the most successful number of campaigns; however, it does not have the highest success-to-failure ratio based on glance alone. 
 Since Louise was specific with which theater category she would begin her campaign, further information can be used to her campaign’s advantage:
