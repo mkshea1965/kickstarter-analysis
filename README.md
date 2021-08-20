@@ -4,11 +4,11 @@ Tutorial on performing analyses of Kickstarter data to uncover trends and upload
 # Kickstarting with Excel
 
 ## Overview of Project
-
+The scope of this project includes a robust analysis of the variables “launch date” and “goals” that may affect whether or not crowdfunding campaigns succeed, fail, or are canceled. The analysis consists of organizing and sorting the campaign data using filters in Excel to assist in creating data visualization models via pivot tables and charts. Doing this facilitates digesting tabular data and can help Louise mirror successful crowdfunding campaigns to improve her campaign’s chance of success. Additionally, we are looking to provide Louise with insight into the musicals market in Great Britain to prepare her for her future endeavors.
 ### Purpose
-
+The purpose of this project is to help budding playwright, Louise, begin a crowdfunding campaign to help fund her play, Fever. Through an analysis of a crowdfunding campaign dataset using Excel, our goal is to find various trends throughout the campaign lifecycles in the provided dataset to help Louise optimize her campaign’s chance of success. 
 ## Analysis and Challenges
-
+Louise estimates that the budget of her play to be greater than $10,000 and is aiming to launch her campaign in the United States using Kickstarter. Initially, the Kickstarter data for all parent categories in the United States were analyzed to gauge if her Kickstarter campaign has a relatively good chance of success: ![Theater_Outcomes_vs_Launch.png]
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
