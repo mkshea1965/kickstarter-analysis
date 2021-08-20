@@ -20,10 +20,10 @@ Since Louise was specific with which theater category she would begin her campai
 As seen in Figure 2, plays - the subcategory of Louise’s campaign – again is the most popular and has over a 50% chance of succeeding. In all, these visuals allow us to make quick conclusions that Louise has a “decent” chance at succeeding; However, further factors should be explored to increase her campaign’s odds.
 One of these factors is the launch date of the campaign. The fates of theater crowdfunding campaigns in the United States were analyzed according to the time of year the campaign began:
 <p align="center"><img width="241" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/88520929/130296630-550f8981-3937-4dad-9468-4a6e3cf63094.png"><p/>
-<p align="center>Figure 3: Theater Outcomes Based on Launch Date</p>
+<p align="center">Figure 3: Theater Outcomes Based on Launch Date</p>
 According to Figure 3, successful campaign rates peak in May. Failing campaign rates peak in the summer around 50% between the months of May and August and in the month of October. Very little plays are canceled.
 <p align="center"><img width="242" alt="1OutcomeLaunchDateTheaterUS" src="https://user-images.githubusercontent.com/88520929/130296697-05afce82-9249-4484-8197-472c77be4fda.png"></p>
-<p align="center>Figure 4: Monthly Outcomes Based on Launch Date for Theater for Years 2007-2017 in US</p>
+<p align="center">Figure 4: Monthly Outcomes Based on Launch Date for Theater for Years 2007-2017 in US</p>
 According to Figure 4, success counts of theater campaigns in the United States peaked in May and were generally continuously higher than failure counts throughout the year. June, July, August, February, and October all had roughly the same number of failed campaigns.  This can be determined based on the jaggedness of each line on the graph of Figure 3.
 <p align="center"><img width="242" alt="1OutcomeLaunchDatePlaysUS" src="https://user-images.githubusercontent.com/88520929/130296716-fbc83ead-c47d-4a4f-ad2e-416e9f2ec86a.png"></p>
 <p align="center">Figure 5: Monthly Outcomes Based on Launch Date for Plays for Years 2007-2017 in US.</p>
@@ -58,7 +58,7 @@ As shown in Figure 8, the mean goal amount is $4,000, while the mean pledged amo
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-One conclusion we can make about the Outcomes based on Launch Date Louise is that Louise is more likely to succeed in starting her campaign in May than any other month. Another conclusion we can make about the Outcomes based on Launch Date Louise is that Success is more likely to occur than failure no matter what month the campaign begins, except for December based on success and failure counts. Louise should not start her campaign in December.
+</p>One conclusion we can make about the Outcomes based on Launch Date Louise is that Louise is more likely to succeed in starting her campaign in May than any other month. Another conclusion we can make about the Outcomes based on Launch Date Louise is that Success is more likely to occur than failure no matter what month the campaign begins, except for December based on success and failure counts. Louise should not start her campaign in December.
 - What can you conclude about the Outcomes based on Goals?
 We can conclude from the insights gained about the Outcomes based on goals is that Louise should not exceed a $30,000 goal if she aims to keep her “greater than $10,000” production closer to the $10,000 amount. However, for plays produced in the United States, the highest rate of success is between $35,000 and $39,999, with the range of $40,000 to $44,999 not far behind. However, the goal should not exceed $45,000 because the success rate plummets above $45,000.
 - What are some limitations of this dataset?
