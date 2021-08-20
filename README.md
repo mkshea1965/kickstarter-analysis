@@ -1,4 +1,3 @@
-<img width="241" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/88520929/130296329-fcae4df9-de98-41bc-b2d8-57bf6953fddc.png">
 # An Analysis of Kickstarter Campaigns
 Tutorial on performing analyses of Kickstarter data to uncover trends and uploading various types of documentation to github.
 ---
@@ -10,7 +9,7 @@ The scope of this project includes a robust analysis of the variables “launch 
 The purpose of this project is to help budding playwright, Louise, begin a crowdfunding campaign to help fund her play, Fever. Through an analysis of a crowdfunding campaign dataset using Excel, our goal is to find various trends throughout the campaign lifecycles in the provided dataset to help Louise optimize her campaign’s chance of success. 
 ## Analysis and Challenges
 Louise estimates that the budget of her play to be greater than $10,000 and is aiming to launch her campaign in the United States using Kickstarter. Initially, the Kickstarter data for all parent categories in the United States were analyzed to gauge if her Kickstarter campaign has a relatively good chance of success: 
-(C:\Users\mkshe\Documents\Columbia Data Bootcamp\Module 1 - Excel\Analysis Projects\Module Tutorial Project\Resources\Theater_Outcomes_vs_Launch.png)
+<img width="241" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/88520929/130296329-fcae4df9-de98-41bc-b2d8-57bf6953fddc.png">
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
