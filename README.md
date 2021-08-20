@@ -64,4 +64,5 @@ As shown in Figure 8, the mean goal amount is $4,000, while the mean pledged amo
 </p>- What are some limitations of this dataset?
 </p>Some limitations to this data set include the lack of play genre. It would be better if we had a mirror example that was successful or not without having to read the “blurb.”
 </p>- What are some other possible tables and/or graphs that we could create?
+
 </p>We can create histograms, pie charts and a probability table/matrix. Histograms can be used to visualize the measures of central tendency and spread of the data. Pie Charts can be used for individual category visualization, such as the Parent Category Outcomes (Figure 1) if we wanted to look at the theater category alone. I didn’t find the stacked bar chart as effective when it only represented counts for one category of data; however, I found them more effective at telling a story when there were multiple stacked bar charts to compare. Probability table/matrix with calculated probabilities of success based on various factors such as “Launch,” “goals,” “genre” can show specific probabilities of multi-factor events with ease.
